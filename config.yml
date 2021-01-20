@@ -1,0 +1,81 @@
+baseURL: https://pap.pyvoice.tech
+languageCode: pt-PT
+defaultContentLanguage: pt
+title: PAP - pyVoice
+theme: cupper-hugo-theme
+googleAnalytics:
+disqusShortname:
+enableGitInfo: false
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+
+imaging:
+  quality: 99
+
+params:
+  description: O site de apoio ao projeto pyVoice.
+  homeMetaContent: O site de apoio ao projeto pyVoice.
+  footer: Made with [Hugo](https://gohugo.io/). Afonso Santos 2021 - present
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat: Jan 2, 2006
+  # codePenUser: someUser
+  katex: true
+  hideHeaderLinks: false
+  search: true
+  showThemeSwitcher: true
+  moveFooterToHeader: false
+  customCss:
+    - css/style.css
+
+menu:
+  nav:
+    - name: Página Inicial
+      url: /
+      weight: 1
+    - name: Sobre Mim
+      url: /sobre-mim
+      weight: 2
+    - name: Sobre o Projeto
+      url: /sobre-projeto
+      weight: 3
+    - name: Material Publicitário
+      url: /material-publicitario
+      weight: 4
+    - name: Contatos
+      url: /contatos
+      weight: 5
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: false
+    hl_Lines: ''
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
