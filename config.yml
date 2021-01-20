@@ -45,9 +45,12 @@ menu:
     - name: Material Publicitário
       url: /material-publicitario
       weight: 4
+    - name: Identidade do Projeto
+      url: /identidade
+      weight: 5
     - name: Contatos
       url: /contatos
-      weight: 5
+      weight: 6
 
 markup:
   defaultMarkdownHandler: goldmark

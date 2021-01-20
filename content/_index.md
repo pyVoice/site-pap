@@ -4,10 +4,5 @@ title: 'Página Inicial'
 
 Bem-vindo!
 
-{{< ticks >}}
-
-- 1
-- 2
-  {{< /ticks >}}
-
-{{< colors "#eee, #aaa, #bbb" >}}
+Este site serve de apoio e informação ao meu projeto de PAP, **pyVoice**.
+Contém mais informação técnica do que o site oficial do projeto, em [www.pyvoice.tech](https://pyvoice.tech).
