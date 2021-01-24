@@ -1,6 +1,6 @@
 # pyVoice
 
-![logo](https://cdn.pyvoice.tech/images/cover_slim.png)
+![logo](https://assets.pyvoice.tech/images/cover_slim.png)
 
 ![MIT](https://img.shields.io/badge/license-MIT-green)
 ![GitHub Org's stars](https://img.shields.io/github/stars/pyvoice?style=social)

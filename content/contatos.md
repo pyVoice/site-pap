@@ -2,7 +2,10 @@
 title: 'Contatos'
 ---
 
-Pode contactar-me através:
+Pode contactar-me através do email do projeto, [*afonso@pyvoice.tech*](mailto:afonso@pyvoice.tech).
 
-- do email: **afonso@pyvoice.tech**
-- ou da página no Facebook: [facebook.com/pyVoiceApp](https://www.facebook.com/pyVoiceApp).
+## Redes Sociais
+
+{{< ticks >}}
+* Facebook - [facebook.com/pyVoiceApp](https://www.facebook.com/pyVoiceApp)
+{{< /ticks >}}

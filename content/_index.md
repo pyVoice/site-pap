@@ -1,5 +1,5 @@
 ---
-title: 'Página Inicial'
+title: "Página Inicial"
 ---
 
 Bem-vindo!
