@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/pyVoice/site-pap#readme",
   "devDependencies": {
+    "netlify-build-plugin-pushover": "0.0.0",
+    "netlify-plugin-pushover": "0.0.6"
+  },
+  "dependencies": {
+    "netlify-build-plugin-pushover": "0.0.0",
     "netlify-plugin-pushover": "0.0.6"
   }
 }
