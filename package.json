@@ -16,7 +16,7 @@
     "url": "https://github.com/pyVoice/site-pap/issues"
   },
   "homepage": "https://github.com/pyVoice/site-pap#readme",
-  "dependencies": {
+  "devDependencies": {
     "netlify-plugin-pushover": "0.0.6"
   }
 }
