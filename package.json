@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pyVoice/site-pap/issues"
   },
-  "homepage": "https://github.com/pyVoice/site-pap#readme"
+  "homepage": "https://github.com/pyVoice/site-pap#readme",
+  "dependencies": {
+    "netlify-plugin-pushover": "0.0.6"
+  }
 }
