@@ -6,6 +6,3 @@ command = "hugo --gc --minify"
 HUGO_VERSION = "0.80.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
-
-[[plugins]]
-package = "netlify-build-plugin-pushover"
