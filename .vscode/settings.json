@@ -1,0 +1,7 @@
+{
+    "prettier.disableLanguages": [
+        "html",
+        "markdown"
+    ],
+    "html.format.enable": false
+}

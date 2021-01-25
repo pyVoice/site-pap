@@ -1,0 +1,19 @@
+{
+  "name": "site-pap",
+  "version": "1.0.0",
+  "description": "Site de apoio ao projeto pyVoice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyVoice/site-pap.git"
+  },
+  "author": "Afonso Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pyVoice/site-pap/issues"
+  },
+  "homepage": "https://github.com/pyVoice/site-pap#readme"
+}
