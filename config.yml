@@ -14,12 +14,12 @@ permalinks:
   post: /:filename/
 
 imaging:
-  quality: 99
+  quality: 100
 
 params:
-  description: O site de apoio ao projeto pyVoice.
-  homeMetaContent: O site de apoio ao projeto pyVoice.
-  footer: Made with [Hugo](https://gohugo.io/). Afonso Santos 2021 - present
+  description: O site de apoio ao projeto pyVoice, o assistente pessoal controlado por voz.
+  homeMetaContent: O site de apoio ao projeto pyVoice, o assistente pessoal controlado por voz.
+  footer: Made with [Hugo](https://gohugo.io/). &copy; Afonso Santos 2021 - present
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   # codePenUser: someUser
@@ -42,11 +42,11 @@ menu:
     - name: Sobre o Projeto
       url: /sobre-projeto
       weight: 3
-    - name: Material Publicitário
-      url: /material-publicitario
-      weight: 4
     - name: Identidade do Projeto
       url: /identidade
+      weight: 4
+    - name: Material Publicitário
+      url: /material-publicitario
       weight: 5
     - name: Contatos
       url: /contatos
@@ -72,7 +72,7 @@ markup:
       xHTML: false
   highlight:
     codeFences: false
-    hl_Lines: ''
+    hl_Lines: ""
     lineNoStart: 1
     lineNos: false
     lineNumbersInTable: true

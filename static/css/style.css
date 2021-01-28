@@ -16,10 +16,6 @@
   max-width: 30%;
 }
 
-table {
-  border: 0;
-}
-
 .column {
   float: left;
   width: 50%;
@@ -31,21 +27,6 @@ table {
   content: "";
   clear: both;
   display: table;
-}
-
-.centered {
-  text-align: center;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.centered small {
-  margin-bottom: 0;
-}
-
-.centered img {
-  margin-top: 0.8em;
 }
 
 /* Media Queries */
