@@ -6,7 +6,7 @@ public_folder: /images
 collections:
   - name: 'site'
     label: 'Site'
-    folder: 'content'
+    folder: 'content/**/*'
     create: true
     slug: '{{slug}}'
     editor:
