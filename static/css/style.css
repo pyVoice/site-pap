@@ -8,9 +8,6 @@
 
 .foto {
   filter: grayscale(80%);
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
   margin-top: 2em;
   margin-bottom: 2em;
   max-width: 30%;
@@ -27,6 +24,17 @@
   content: "";
   clear: both;
   display: table;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image-about {
+  width: 10em;
+  margin-bottom: 2em;
 }
 
 /* Media Queries */
