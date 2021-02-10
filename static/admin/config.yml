@@ -4,13 +4,13 @@ backend:
 media_folder: static/images
 public_folder: /images
 collections:
-  - name: 'site'
-    label: 'Site'
-    folder: 'content/**/*'
+  - name: "site"
+    label: "Site"
+    folder: "content/**/*"
     create: true
-    slug: '{{slug}}'
+    slug: "{{slug}}"
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
