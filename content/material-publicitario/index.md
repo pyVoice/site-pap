@@ -4,7 +4,7 @@ title: 'Material Publicitário'
 
 ## Cartazes
 
-Cartazes são uma ótima forma de obter a atenção do público, quando colocados em locais públicos. Ao utilizar combinações de cores que provocam grande contraste, consegue-se captar a atenção de que passa por um momento.
+Os cartazes são uma ótima forma de obter a atenção do público, quando colocados em locais públicos. Ao utilizar combinações de cores que provocam grande contraste, consegue-se captar a atenção de que passa por um momento.
 
 {{< figureCupper
 img="images/cartazes/apresentacao_projeto_pap.png" 
@@ -14,9 +14,7 @@ options="700x" >}}
 
 ## Folhetos
 
-{{< note >}}
-TBD
-{{< /note >}}
+Por fazer
 
 ## Roupa e Acessórios
 
@@ -172,12 +170,8 @@ Também conhecidos por _merchandising_, são uma ótima forma de divulgar um pro
 
 ## Vídeos Promocionais
 
-{{< note >}}
-TBD
-{{< /note >}}
+Por fazer
 
 ## Outros
 
-{{< note >}}
-TBD
-{{< /note >}}
+Por fazer

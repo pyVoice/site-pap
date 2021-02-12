@@ -4,7 +4,7 @@ title: 'Identidade do Projeto'
 
 A identidade é o que define um projeto: as suas cores, os logótipos, e os restantes elementos que fazem parte da sua marca.
 
-Para este projeto escolhi cores simples, mas chamativas, e combinações que permitem uma grande diversidade nas aplicações dos logótipos.
+Para este projeto escolhi cores simples, mas apelativas, e combinações que permitem uma grande diversidade nas aplicações dos logótipos.
 
 
 ## Cores
@@ -13,13 +13,13 @@ Para este projeto escolhi cores simples, mas chamativas, e combinações que per
 
 ## Fontes/Tipos de Letra
 
-A fonte utilizada nos materiais do projeto foi a **Montserrat ExtraBold** ([https://fonts.google.com/specimen/Montserrat](https://fonts.google.com/specimen/Montserrat)).
+A fonte utilizada nos materiais do projeto foi a [***Montserrat ExtraBold***](https://fonts.google.com/specimen/Montserrat).
 
-Foi escolhida por ser um tipo de letra simples, moderno e gratuito.
+Foi escolhida por ser um tipo de letra simples, moderna e gratuita.
 
 ## Logótipos
 
-Para o desenvolvimento de todos os logótipos do projeto (e suas variações) foi utilizado o utilitário **Adobe Illustrator**.
+Para o desenvolvimento de todos os logótipos do projeto (e suas variações) foi utilizado o utilitário ***Adobe Illustrator***.
 
 Use o botão **ON/OFF** no fundo da página para ver outras variações dos logótipos vetoriais.
 
@@ -44,7 +44,7 @@ options="" >}}
 
 {{< figureCupper
 img="images/png/cover.png" 
-caption="*Cover* com logótipo e fundo com cores do projeto" 
+caption="*Banner* com logótipo e fundo com cores do projeto" 
 command="Resize" 
 options="350x" >}}
 

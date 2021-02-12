@@ -2,7 +2,7 @@
 title: "Contatos"
 ---
 
-Pode contactar-me através do email do projeto, [_afonso@pyvoice.tech_](mailto:afonso@pyvoice.tech).
+Pode contactar-me através do endereço de email do projeto, [_afonso@pyvoice.tech_](mailto:afonso@pyvoice.tech).
 
 ## Redes Sociais
 

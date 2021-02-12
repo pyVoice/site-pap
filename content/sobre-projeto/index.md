@@ -2,9 +2,9 @@
 title: 'Sobre o Projeto'
 ---
 
-O meu projeto de PAP (Projeto de Aptidão Profissional) consiste na criação de um assistente pessoal (semelhante a Google Assistant &reg; e Amazon Alexa &reg;), mas mais simples e fácil de utilizar.
+O meu projeto de PAP consiste na criação de um assistente pessoal (semelhante a Google Assistant &reg; e Amazon Alexa &reg;), mas mais simples e fácil de utilizar.
 
-O projeto é ***Open Source*** e o código fonte encontra-se disponível para consulta por todos em [https://github.com/pyVoice/pyVoice](https://github.com/pyVoice/pyVoice).
+O projeto é ***Open Source*** e o código fonte encontra-se disponível para consulta em [https://github.com/pyVoice/pyVoice](https://github.com/pyVoice/pyVoice).
 
 ## Inspiração
 
@@ -14,9 +14,9 @@ A linguagem de programação Python foi escolhida para esta tarefa devido à sua
 
 ## Visão Geral
 
-O projeto engloba três áreas, que ao funcionarem em conjunto permitem o funcionamento da aplicação.
+O projeto engloba três áreas, que ao funcionarem em conjunto, permitem o funcionamento da aplicação.
 
-Abaixo está o funcionamento geral da aplicação.
+Seguem-se as áreas que o projeto envolve.
 
 ### Reconhecimento de voz
 
@@ -28,12 +28,12 @@ Responsável por converter a voz do utilizador (obtida através do microfone do 
 
 <img src="images/matching.svg" class="image-about center" />
 
-Após o *input* de áudio ter sido convertida para texto, será comparada com padrões de comandos pré-definidos, decidindo assim a melhor resposta.
+Após o áudio ter sido reconhecido e convertido para texto, será comparado com padrões de comandos pré-definidos, decidindo assim a melhor resposta.
 
 ### Conversão de texto para voz
 
 <img src="images/text_to_speech.svg" class="image-about center" />
 
-A resposta ao pedido do utilizador será convertida para voz e reproduzida no dispositivo, permitindo assim que o utilizador nem perca tempo a ler a resposta!
+A resposta, ao pedido do utilizador, será convertida para voz e reproduzida no dispositivo, permitindo assim que o utilizador nem perca tempo a ler a resposta!
 
 

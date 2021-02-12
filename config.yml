@@ -19,7 +19,7 @@ imaging:
 params:
   description: O site de apoio ao projeto pyVoice, o assistente pessoal controlado por voz.
   homeMetaContent: O site de apoio ao projeto pyVoice, o assistente pessoal controlado por voz.
-  footer: Made with [Hugo](https://gohugo.io/). &copy; Afonso Santos 2021 - present
+  footer: Made with [Hugo](https://gohugo.io/). &copy; Afonso Santos 2021 - presente
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   # codePenUser: someUser
