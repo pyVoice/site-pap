@@ -21,7 +21,7 @@ Pode visitar o site em [https://pap.pyvoice.tech](https://pap.pyvoice.tech).
 
 ## Contribuir
 
-Encontrou um erro? Quer fazer uma correção? Abra uma nova _Issue_ [aqui](/issues).
+Encontrou um erro? Quer fazer uma correção? Abra uma nova _Issue_ [aqui](https://github.com/pyVoice/site-pap/issues).
 
 Todas as _Issues_ serão revistas e se aprovadas, adicionadas ao projeto.
 
