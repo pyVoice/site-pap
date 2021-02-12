@@ -1,16 +1,26 @@
 <p align="center">
 
-![logo](https://pyvoicestorage.blob.core.windows.net/wordpress/cover_slim.png)
+<img src="https://pyvoicestorage.blob.core.windows.net/wordpress/cover_slim.png" style="width:90%;margin-bottom:1em;" />
 
-![MIT](https://img.shields.io/badge/license-MIT-green)
-![GitHub Org's stars](https://img.shields.io/github/stars/pyvoice?style=social)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f6a0f873-6aff-4b70-88b7-15cf3a786cd2/deploy-status)](https://app.netlify.com/sites/pyvoice-pap/deploys)
+<img src="https://img.shields.io/badge/license-MIT-green" style="margin:0 0.5em;" />
+
+<img src="https://img.shields.io/github/stars/pyvoice?style=social" style="margin:0 0.5em;" />
+
+<img src="https://api.netlify.com/api/v1/badges/f6a0f873-6aff-4b70-88b7-15cf3a786cd2/deploy-status" />
 
 </p>
 
 ## Sobre
 
 Este repositório contém o site de apresentação do projeto, desenvolvido com a framework [Hugo](https://gohugo.io/) e alojado na plataforma [Netlify](https://www.netlify.com/).
+
+Pode visitar o site em [https://pap.pyvoice.tech](https://pap.pyvoice.tech).
+
+## Contribuir
+
+Encontrou um erro? Quer fazer uma correção? Abra uma nova _Issue_ [aqui](/issues).
+
+Todas as _Issues_ serão revistas e se aprovadas, adicionadas ao projeto.
 
 ## Apoios
 
@@ -21,7 +31,8 @@ O projeto teve o apoio das seguintes entidades:
 
 ## Licença
 
-**The MIT License (MIT)**
+```
+The MIT License (MIT)
 
 Copyright 2021 Afonso Santos
 
@@ -45,3 +56,4 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
+```
