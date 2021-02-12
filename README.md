@@ -1,12 +1,13 @@
 <p align="center">
 
-<img src="https://pyvoicestorage.blob.core.windows.net/wordpress/cover_slim.png" width="70%" style="margin-bottom:1em;" />
+<img src="https://pyvoicestorage.blob.core.windows.net/wordpress/cover_slim.png" width="80%" />
 
 <br />
+<br />
 
-<img src="https://img.shields.io/badge/license-MIT-green" style="margin:0 0.5em;" />
+<img src="https://img.shields.io/badge/license-MIT-green" />
 
-<img src="https://img.shields.io/github/stars/pyvoice?style=social" style="margin:0 0.5em;" />
+<img src="https://img.shields.io/github/stars/pyvoice?style=social" />
 
 <img src="https://api.netlify.com/api/v1/badges/f6a0f873-6aff-4b70-88b7-15cf3a786cd2/deploy-status" />
 
