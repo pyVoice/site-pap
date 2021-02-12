@@ -1,6 +1,8 @@
 <p align="center">
 
-<img src="https://pyvoicestorage.blob.core.windows.net/wordpress/cover_slim.png" style="width:90%;margin-bottom:1em;" />
+<img src="https://pyvoicestorage.blob.core.windows.net/wordpress/cover_slim.png" width="70%" style="margin-bottom:1em;" />
+
+<br />
 
 <img src="https://img.shields.io/badge/license-MIT-green" style="margin:0 0.5em;" />
 
