@@ -1,46 +1,23 @@
-# pyVoice
+<p align="center">
 
-![logo](https://assets.pyvoice.tech/images/cover_slim.png)
+![logo](https://pyvoicestorage.blob.core.windows.net/wordpress/cover_slim.png)
 
 ![MIT](https://img.shields.io/badge/license-MIT-green)
 ![GitHub Org's stars](https://img.shields.io/github/stars/pyvoice?style=social)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f6a0f873-6aff-4b70-88b7-15cf3a786cd2/deploy-status)](https://app.netlify.com/sites/pyvoice-pap/deploys)
+
+</p>
 
 ## Sobre
 
-O pyVoice é a solução para controlo por voz. Permite a realização de tarefas simples ([lista de comandos suportados aqui](https://docs.pyvoice.tech/comandos/)) através de comandos de voz.
-
----
-
-**_Porquê escolher o pyVoice?_**
-
-- 🌟 Facilidade de utilização
-- 💻 Multiplataforma
-- 👪 Adequado para todos
-- 👌 Gratuito
-
----
-
-A aplicação terá que ser instalada no computador do utilizador (versões móveis em breve), e após uma pequena configuração inicial, estará pronto a ser utilizada.
-
-👉 _O pyVoice é fruto de um projeto de <abbr title="Projeto de Aptidão Profissional">PAP</abbr>; saiba mais [aqui](https://www.pyvoice.tech)._
-
-## Utilização
-
-3 simples passos para começar a utilizar o pyVoice:
-
-1. **Instalar** o pyVoice no seu computador ([instruções de instalação](https://docs.pyvoice.tech/instalacao/))
-2. **Configurar** o pyVoice ao seu gosto (através do assistente de configuração)
-3. **Começar a utilizar**!
-
-## Agradecimentos
-
-Agradeço a todos os professores, colegas, amigos e conhecidos que deram ideias, opinião, e dispensaram tempo para ajudar na realização do projeto. **Muito obrigado a todos vós!** 💖
+Este repositório contém o site de apresentação do projeto, desenvolvido com a framework [Hugo](https://gohugo.io/) e alojado na plataforma [Netlify](https://www.netlify.com/).
 
 ## Apoios
 
 O projeto teve o apoio das seguintes entidades:
 
-- [ESDACSF](https://www.esdacsf.pt) - Escola Secundária Dr. Augusto César da Silva Ferreira
+- [Escola Secundária Dr. Augusto César da Silva Ferreira](https://www.esdacsf.pt) pelo corpo docente, que muito ajudou no decorrer da realização do projeto
+- [GitHub Student Developer Pack](https://education.github.com/pack) por fornecer ferramentas que apoiaram o desenvolvimento do projeto
 
 ## Licença
 
