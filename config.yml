@@ -36,8 +36,8 @@ menu:
     - name: Página Inicial
       url: /
       weight: 1
-    - name: Sobre Mim
-      url: /sobre-mim
+    - name: Sobre o Autor
+      url: /sobre-autor
       weight: 2
     - name: Sobre o Projeto
       url: /sobre-projeto
@@ -48,9 +48,12 @@ menu:
     - name: Material Publicitário
       url: /material-publicitario
       weight: 5
+    - name: Documentação
+      url: /documentacao
+      weight: 6
     - name: Contatos
       url: /contatos
-      weight: 6
+      weight: 7
 
 markup:
   defaultMarkdownHandler: goldmark
