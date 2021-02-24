@@ -9,7 +9,9 @@ Para o desenvolvimento do projeto será utilizada a linguagem de programação [
 
 ## Inspiração
 
-Este projeto surgiu devido ao meu interesse pela linguagem de programação que irei utilizar, mas devo admitir que o maior fator na escolha do projeto foi o facto de ser algo *out of the box* (fora da caixa). Nunca tinha visto um aluno do meu curso (ou semelhante) realizar um projeto nesta área, e decidi desafiar-me.
+Este projeto surgiu devido ao meu interesse pela linguagem de programação que irei utilizar, mas devo admitir que o maior fator na escolha do projeto foi o facto de ser algo *out of the box* (fora da caixa). Nunca tinha visto um aluno do meu curso (ou semelhante) realizar um projeto nesta área, e decidi desafiar-me, ao propor realizar este projeto.
+
+Visto ainda que o projeto de PAP termina a minha frequência no curso, este deve ser algo que englobe diversas áreas do curso, e assim foi, tendo eu utilizado conhecimentos que adquiri, tanto a nível pessoal, como a nível escolar, como descrito na secção [Disciplinas Envolvidas](#disciplinas-envolvidas).
 
 
 ## Visão Geral
