@@ -9,7 +9,7 @@ Para o desenvolvimento do projeto será utilizada a linguagem de programação [
 
 ## Inspiração
 
-Este projeto surgiu devido ao meu interesse por est e manipulação de voz/áudio.
+Este projeto surgiu devido ao meu interesse pela linguagem de programação que irei utilizar, mas devo admitir que o maior fator na escolha do projeto foi o facto de ser algo *out of the box* (fora da caixa). Nunca tinha visto um aluno do meu curso (ou semelhante) realizar um projeto nesta área, e decidi desafiar-me.
 
 
 ## Visão Geral
