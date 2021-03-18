@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/xURT3C6.png" width="70%" />
+<img src="https://i.imgur.com/xURT3C6.png" width="50%" />
 </p>
 <p align="center">Assistente pessoal, controlado por voz</p>
 <br>
