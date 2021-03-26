@@ -8,13 +8,15 @@ Os cartazes são uma ótima forma de obter a atenção do público, quando coloc
 
 {{< figureCupper
 img="images/cartazes/apresentacao_projeto_pap.png" 
-caption="Cartaz da Apresentação do Projeto de PAP _(out/2020)_" 
+caption="<strong>Cartaz da Apresentação do Projeto da PAP</strong> _(out/2020)_" 
 command="Resize" 
 options="700x" >}}
 
-## Folhetos
-
-Por fazer
+{{< figureCupper
+img="images/cartazes/apresentacao_pap.png" 
+caption="<strong>Cartaz da Apresentação e Defesa da PAP</strong> _(abr/2021)_" 
+command="Resize" 
+options="700x" >}}
 
 ## Roupa e Acessórios
 
@@ -168,10 +170,24 @@ Também conhecidos por _merchandising_, são uma ótima forma de divulgar um pro
 
 {{< /expandableHTML >}}
 
-## Vídeos Promocionais
+## Vídeo Promocional
 
-Por fazer
+_Por fazer_
 
-## Outros
+## Cartão de Visita
 
-Por fazer
+{{< figureCupper
+img="images/cartao_visita/frente.png" 
+caption="<strong>Cartão de Visita</strong> _(frente)_" 
+command="Resize" 
+options="400x" >}}
+
+{{< figureCupper
+img="images/cartao_visita/tras.png" 
+caption="<strong>Cartão de Visita</strong> _(trás)_" 
+command="Resize" 
+options="400x" >}}
+
+## Panfleto
+
+_Por fazer_
