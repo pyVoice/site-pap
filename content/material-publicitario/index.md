@@ -172,7 +172,7 @@ Também conhecidos por _merchandising_, são uma ótima forma de divulgar um pro
 
 ## Vídeo Promocional
 
-_Por fazer_
+<iframe class="center" width="560" height="315" src="https://www.youtube-nocookie.com/embed/_ZyOBDGzDVs?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Cartão de Visita
 
@@ -190,4 +190,8 @@ options="400x" >}}
 
 ## Panfleto
 
-_Por fazer_
+{{< figureCupper
+img="images/panfleto/panfleto_pap.png" 
+caption="<strong>Panfleto de Apresentação da PAP</strong> _(abr/2021)_" 
+command="Resize" 
+options="700x" >}}
